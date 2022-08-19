@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+}
+h1:hover{
+    color: brown;
+}
+.input{
+    text-align: center;
+    margin-top: 15%;
+}
+.pattern{
+    width: 254px;
+    padding: 20px;
+}
+.check{
+    margin-top: 10px;
+}
